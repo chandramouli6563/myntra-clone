@@ -1,0 +1,21 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@auth/mongodb-adapter": "^3.10.0",
+    "@types/nodemailer": "^7.0.2",
+    "framer-motion": "^12.23.22",
+    "lucide-react": "^0.545.0",
+    "next-auth": "^5.0.0-beta.29",
+    "nodemailer": "^6.10.1",
+    "twilio": "^5.10.2"
+  }
+}
